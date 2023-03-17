@@ -1,0 +1,21 @@
+# Counter App Using Vue.js
+
+# AltSchool Africa Second Semester Examination
+
+# Name: Ekunola Paul O
+
+# Frontend Developer
+
+# Student ID: ALT/SOE/022/5326
+
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
