@@ -1,10 +1,12 @@
 <template>
   <nav>
-    <div class="logo">Counter App</div>
+    <div class="logo">
+      <router-link to="/" class="linkTag">Counter App </router-link>
+    </div>
     <div class="nav-links">
       <router-link to="/">Home</router-link>
-      <router-link to="/counter">Counter</router-link>
-      <router-link to="/about">404 Page</router-link>
+      <router-link to="/counter-app">Counter</router-link>
+      <router-link to="/404">404 Page</router-link>
     </div>
   </nav>
 </template>

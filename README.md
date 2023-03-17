@@ -19,3 +19,6 @@ npm install
 ```
 npm run serve
 ```
+
+Github Link: https://github.com/pscon/Vue-Counter-App
+Deployed Link: https://ekunola-paul-vue-counter.netlify.app

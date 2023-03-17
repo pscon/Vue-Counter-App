@@ -7,8 +7,11 @@
       <h1 class="errorHeading">
         4<span class="errorSpan">0</span>4 Page Not Found
       </h1>
+      <h4 class="errorSubMsg">
+        Look like you're <span class="errorSpan">Lost</span>
+      </h4>
       <p class="error__msg">Sorry, the requested url could not be found.</p>
-      <router-link to="/">Go back to Home page</router-link>
+      <router-link to="/" class="redirectHome"> Go to Home</router-link>
     </div>
   </main>
 </template>
@@ -58,9 +61,24 @@ export default {
 }
 
 .error__msg {
-  font-family: terFont;
-  font-size: 16px;
+  font-family: cursive;
+  font-size: 20px;
   text-align: center;
   color: red;
+}
+.errorSubMsg {
+  font-family: cursive;
+  font-size: 26px;
+  text-align: center;
+}
+.redirectHome {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: cursive;
+  color: white;
+  background-color: #282c34;
+  padding: 10px;
+  border-radius: 10px;
 }
 </style>

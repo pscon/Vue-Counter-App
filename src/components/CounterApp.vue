@@ -123,16 +123,22 @@ input {
   border-radius: 10px 0 0 10px;
   outline: none;
 }
+
 .submit {
   border-radius: 0 10px 10px 0;
-  margin-left: -4px;
-  border-left: 1px solid #fff;
-  font-weight: bolder;
+  background-color: darkred;
+  color: #fff;
   width: 100px;
-  padding: 10px;
+  font-weight: bolder;
+  font-size: 16px;
+  font-family: cursive;
+  outline: none;
+  border: none;
 }
 .submit:hover {
-  background-color: rgb(41, 233, 233);
+  background-color: #fff;
+  border: 1px solid darkred;
+  color: darkred;
   transition: all 0.4s;
 }
 @keyframes fadeIn {

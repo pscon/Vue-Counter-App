@@ -1,6 +1,6 @@
 <template>
   <main class="full">
-    <h1 class="heading-main">Counter App</h1>
+    <h1 class="heading-main linkTag">Counter App</h1>
     <p class="home__msg">
       A Counter App coded in Vue that performs Increment, Decrement, Reset and
       setValue functions.
@@ -8,7 +8,7 @@
 
     <div>
       <button type="button" class="btn">
-        <router-link to="/counter">Counter</router-link>
+        <router-link to="/counter-app">Counter</router-link>
       </button>
       <button type="button" class="btn">
         <a href="https://www.github.com/pscon">GitHub</a>
@@ -48,6 +48,7 @@ export default {
   text-align: center;
   font-family: cursive;
   font-weight: bolder;
+  color: darkred;
 }
 .home__msg {
   font-family: terFont;
