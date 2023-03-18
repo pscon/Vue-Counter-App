@@ -1,6 +1,6 @@
 # Counter App Using Vue.js
 
-# AltSchool Africa Second Semester Examination
+# AltSchool Africa Third Semester Examination
 
 # Name: Ekunola Paul O
 
