@@ -1,12 +1,13 @@
 # Counter App Using Vue.js
 
-# AltSchool Africa Third Semester Examination
+## AltSchool Africa Third Semester Examination
 
 # Name: Ekunola Paul O
 
-# Frontend Developer
+## Deployed Link: https://ekunola-paul-vue-counter.netlify.app
 
-# Student ID: ALT/SOE/022/5326
+
+## Student ID: ALT/SOE/022/5326
 
 ## Project setup
 
@@ -21,4 +22,3 @@ npm run serve
 ```
 
 Github Link: https://github.com/pscon/Vue-Counter-App
-Deployed Link: https://ekunola-paul-vue-counter.netlify.app
