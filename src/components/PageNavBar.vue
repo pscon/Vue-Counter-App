@@ -5,7 +5,7 @@
     </div>
     <div class="nav-links">
       <router-link to="/">Home</router-link>
-      <router-link to="/counter-app">Counter</router-link>
+      <router-link to="/counter">Counter</router-link>
       <router-link to="/404">404 Page</router-link>
     </div>
   </nav>

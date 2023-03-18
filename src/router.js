@@ -10,7 +10,7 @@ const routes = [
     component: HomeApp,
   },
   {
-    path: "/counter-app",
+    path: "/counter",
     name: "Counter",
     component: Counter,
   },

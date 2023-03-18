@@ -34,6 +34,7 @@ export default {
   width: 98%;
   margin: 0 auto;
 }
+
 .image_wrapper {
   width: 400px;
   height: 300px;
@@ -80,5 +81,8 @@ export default {
   background-color: #282c34;
   padding: 10px;
   border-radius: 10px;
+}
+.redirectHome:hover {
+  background-color: #555;
 }
 </style>
